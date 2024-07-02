@@ -1,0 +1,18 @@
+{
+  "name": "03-gerador-qrcode-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file=.env src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "prompt": "^1.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
