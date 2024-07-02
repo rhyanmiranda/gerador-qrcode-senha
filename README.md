@@ -1,3 +1,3 @@
 # Gerador de QRCode e Senha 
 
-### Desenvolcido durante o curso de NodeJs da DIO
+### Desenvolcido durante o curso de NodeJS da DIO
